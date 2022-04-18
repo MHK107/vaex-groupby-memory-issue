@@ -9,8 +9,8 @@ https://dbmwcsmodruab.cloudfront.net/shared-folder/test.hdf5
 - OS (Windows 10, However same results can be seen on Ubuntu)
 
 ## Packages being used
-- Flask (Version 1.1.2)
-- Vaex (Version 4.0.0b)
+- Flask (Version 1.1.1)
+- Vaex (Version 4.0.0a6)
 
 ## Steps to Run 
 - pip install the packages mentioned above
